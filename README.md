@@ -2,6 +2,8 @@
 
 Example taken from [Add test coverage to a Vue app using Jest, TravisCI and Coveralls](https://medium.com/javascript-in-plain-english/add-test-coverage-to-vue-js-app-with-jest-travis-ci-and-coveralls-d10d118125c2)
 
+[![Build Status](https://travis-ci.org/joemckevitt/vue-code-coverage.svg?branch=master)](https://travis-ci.org/joemckevitt/vue-code-coverage)
+
 ## Project setup
 ```
 npm install
