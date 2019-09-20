@@ -1,5 +1,7 @@
 # vue-code-coverage
 
+Example taken from [Add test coverage to a Vue app using Jest, TravisCI and Coveralls](https://medium.com/javascript-in-plain-english/add-test-coverage-to-vue-js-app-with-jest-travis-ci-and-coveralls-d10d118125c2)
+
 ## Project setup
 ```
 npm install
